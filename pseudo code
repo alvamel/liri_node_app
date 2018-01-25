@@ -1,0 +1,13 @@
+// Pseudo code //
+
+// make 'package.json' file //
+// make 'gitignore' file 
+
+```
+node_modules
+.DS_Store
+```
+// make javascript file 'keys.js' //
+
+
+
