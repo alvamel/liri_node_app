@@ -40,12 +40,12 @@ function theSwitch() {
 // fetch
 function fetchTweets() {
     console.log("Tweets");
-    var client = new twitter({
-        consumer_key:
-        consumer_secret:
-        access_token_key:
-        access_token_secret:
-});
+//     var client = new twitter({
+//         consumer_key:
+//         consumer_secret:
+//         access_token_key:
+//         access_token_secret:
+// });
 
 // tweeter parameters function
 var parameters = {
